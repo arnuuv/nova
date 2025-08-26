@@ -1,0 +1,220 @@
+Welcome message: {
+    "type": "Welcome",
+    "request_id": "f1ef2344-abc8-414a-8f91-50907ea66569"
+}
+Settings applied: {
+    "type": "SettingsApplied"
+}
+{"type": "ConversationText", "role": "assistant", "content": "Hello! How can I help you today?"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"Hello! How can I help you today?\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "Yeah. As as much as it's worth"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"Yeah. As as much as it's worth\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": ""}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It sounds like you might be expressing some skepticism or caution about something."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It sounds like you might be expressing some skepticism or caution about something.\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "Could you elaborate on what you're referring to?"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"Could you elaborate on what you're referring to?\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "many of us"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"many of us\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It sounds like you\u2019re addressing a shared sentiment or experience among a group."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It sounds like you\u2019re addressing a shared sentiment or experience among a group.\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "are looking forward to it just being"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"are looking forward to it just being\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It seems like you're touching on a desire for something to be simple or straightforward."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It seems like you're touching on a desire for something to be simple or straightforward.\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "And"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"And\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It looks like you might want to continue your thought."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It looks like you might want to continue your thought.\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "I think if it signifies anything,"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"I think if it signifies anything,\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It sounds like you\u2019re about to share your perspective on the significance of something."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It sounds like you\u2019re about to share your perspective on the significance of something.\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+Connection closed: {
+    "type": "Close"
+}
+Welcome message: {
+    "type": "Welcome",
+    "request_id": "a3097437-65a0-4358-b6da-f571ea7c4c72"
+}
+Settings applied: {
+    "type": "SettingsApplied"
+}
+{"type": "ConversationText", "role": "assistant", "content": "Hello! How can I help you today?"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"Hello! How can I help you today?\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "Yeah. As as much as it's worth"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"Yeah. As as much as it's worth\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "many of us"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"many of us\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "are looking forward to it just being"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"are looking forward to it just being\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It sounds like you\u2019re anticipating a change or an event that you hope will bring some positivity or resolution."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It sounds like you\u2019re anticipating a change or an event that you hope will bring some positivity or resolution.\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "And I think if it signifies anything,"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"And I think if it signifies anything,\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It seems like you're reflecting on the significance of that change or event."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It seems like you're reflecting on the significance of that change or event.\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "What do you think it signifies for you or for others?"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"What do you think it signifies for you or for others?\"}"
+}
+Connection closed: {
+    "type": "Close"
+}
+Welcome message: {
+    "type": "Welcome",
+    "request_id": "5c088d09-a368-4b2e-af9c-d78c2346e342"
+}
+Settings applied: {
+    "type": "SettingsApplied"
+}
+{"type": "ConversationText", "role": "assistant", "content": "Hello! How can I help you today?"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"Hello! How can I help you today?\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "Yeah. As as much as it's worth"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"Yeah. As as much as it's worth\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "many of us"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"many of us\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "are looking forward to it just being"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"are looking forward to it just being\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It seems like you're expressing anticipation for something!"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It seems like you're expressing anticipation for something!\"}"
+}
+User Started Speaking: {
+    "type": "UserStartedSpeaking"
+}
+{"type": "ConversationText", "role": "user", "content": "And I think if it signifies anything,"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"user\",\"content\":\"And I think if it signifies anything,\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "It sounds like you have deeper thoughts on what that anticipation represents."}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"It sounds like you have deeper thoughts on what that anticipation represents.\"}"
+}
+{"type": "ConversationText", "role": "assistant", "content": "What do you think it signifies?"}
+Unhandled event: {
+    "type": "Unhandled",
+    "raw": "{\"type\":\"History\",\"role\":\"assistant\",\"content\":\"What do you think it signifies?\"}"
+}
+Connection closed: {
+    "type": "Close"
+}
